@@ -20,11 +20,11 @@ body {
 }
 
 .contenedor {
-	width: 60%;
+	width: 90%;
 	max-width: 1200px;
     background-size: cover;
     background-position:center;
-	margin-left: 0; 
+	margin-left: auto; 
 	margin-right: auto;
     margin-top: 35px;
     padding: 20px 30px;
